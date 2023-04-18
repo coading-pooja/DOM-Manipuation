@@ -30,4 +30,5 @@ console.log(items[3]);
 var additems = document.getElementsByClassName("title");
 console.log(additems);
 additems[0].style.fontWeight="bold";
+additems[0].style.fontStyle="italic";
 additems[0].style.color="green";
